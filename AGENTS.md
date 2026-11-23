@@ -15,7 +15,8 @@ work out loads and power design before buying or wiring anything.
 The active hardware target is the laser turret:
 
 - **Real project folder:** `C:\learning\projects\embedded\laser_turret`
-- **Git remote:** https://github.com/forgeVII/laser_turret (private)
+- **Git remote:** https://github.com/forgeVII/laser_turret (public)
+- **Power supply repo (canonical):** https://github.com/forgeVII/Portable-Bench-PSU (public) — one shared 3S1P box, used by the turret and future projects
 - **Hardware plan:** `TRACKER.md` (component list, Power Design section,
   buy list: Blue Pill + 2x SG90 + laser 5V TTL + HC-SR04 + external 5V)
 - **Loaded components to model:** 2x SG90 servo, HC-SR04 (5V), laser module
